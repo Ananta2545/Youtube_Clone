@@ -91,6 +91,7 @@ nav{
     margin-right: 20px;
 }
 
+
 .shortcut-links a{
     display: flex;
     align-items: center;
@@ -255,6 +256,7 @@ nav{
 
 .play-video video{
     width:100%;
+    border-radius: 10px;
 }
 .side-video-list{
     display:flex;
@@ -263,12 +265,26 @@ nav{
 }
 .side-video-list img{
     width:100%;
+    border-radius: 8px;
 }
 .side-video-list .small-thumbnail{
     flex-basis: 49%;
 }
 .side-video-list .vid-info{
     flex-basis: 49%;
+}
+
+.right-sidebar :hover{
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+}
+
+.vid-list{
+    transition: transform 0.5s;
+}
+.vid-list:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
 }
 
 .play-video .tags a{

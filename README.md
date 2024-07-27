@@ -31,3 +31,12 @@ Welcome to the YouTube Clone App! This project is a simplified version of the po
 3.Open the index.html File in Your Browser to view the home page.
 
 4.Click on any video thumbnail to navigate to the video player page and watch the video.
+
+## **Acknowledgements**:
+- Inspiration from the original YouTube.
+- Design ideas and implementation techniques from various online resources.
+
+## **Contact**:
+Feel free to reach out with any questions or feedback:
+- Email: chatterjeeanata091@gmail.com
+- GitHub: Ananta2545

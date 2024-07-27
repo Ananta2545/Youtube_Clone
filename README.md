@@ -2,7 +2,10 @@
 
 Welcome to the YouTube Clone App! This project is a simplified version of the popular video-sharing platform, built using HTML, CSS, and JavaScript. It includes a home page displaying video thumbnails and a playing video page for an immersive viewing experience.
 
-![YouTube Clone App Screenshot](images/homepage_screenshot.png)
+## **Screenshot**:
+![YouTube Clone App Screenshot](Images/image2.png)
+
+![YouTube Clone App Screenshot](Images/image1.png)
 
 ## **Features**
 
